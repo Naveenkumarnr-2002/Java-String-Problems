@@ -1,8 +1,7 @@
-# GuviTask-5
+# Java-String-Problems
 
   
-  <b >Advance Java
-Task-5
+  <b >String Manipulation Problems
   </b>
 
 Q1.String Conversion toUpperCase using Map() function 
@@ -15,7 +14,7 @@ List of String Creation:
 
 ![Screenshot 2025-03-22 210144](https://github.com/user-attachments/assets/32849ac8-3018-48f5-ba22-8d8dd9f26162)
 
-Method for Mapping the String Using Map() method:
+Method for Mapping the String Using the Map() method:
 
 ![Screenshot 2025-03-22 210302](https://github.com/user-attachments/assets/60969858-11f5-4186-9f76-ee5c018d8ba1)
 
@@ -25,7 +24,7 @@ OUTPUT :
 
 <hr>
 
-2.Checking the List Empty or not
+2. Checking the List Empty or not
 
 ![Screenshot 2025-03-22 210547](https://github.com/user-attachments/assets/12ec09a1-f928-40c7-9fb2-a13800d86261)
 
@@ -45,11 +44,11 @@ OUTPUT :
 
 ![Screenshot 2025-03-22 211241](https://github.com/user-attachments/assets/81be521d-33ac-475a-a972-6ac286a2b353)
 
-Method for find Students Name Starts with “A”
+Method for finding Students' names that start with “A”
 
 ![Screenshot 2025-03-22 211319](https://github.com/user-attachments/assets/569a0140-36da-4b82-9435-bd36a73f7297)
 
-Using Lambda Expression and Stream API for Filtering List
+Using Lambda Expression and Stream API for Filtering a List
 
 ![Screenshot 2025-03-22 211408](https://github.com/user-attachments/assets/6c8c1a76-b85e-444c-a90f-474a8cf7ecd7)
 
@@ -59,7 +58,7 @@ OUTPUT :
 
 <hr>
 
-4.Age Calculation
+4. Age Calculation
 
 Getting User from the User
 
